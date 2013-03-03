@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README for a newly created project.
 
 There are a couple of things you should do first, before you can use all of Git's power:
@@ -20,4 +19,3 @@ Happy coding!
 =======
 aggregreat
 ==========
->>>>>>> e1fb33dd9d5764e761b64fb0dc94e9fc39c4f279
